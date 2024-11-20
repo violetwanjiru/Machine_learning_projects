@@ -10,7 +10,7 @@ I am  a data scientist with a strong background in agriculture, healthcare, and 
 * Microsoft Excel/Google Sheets
 * PowerBi
 ### Other 
-Teamwork
+* Teamwork
 * Collaboration
 * Written communication
 ## Projects
