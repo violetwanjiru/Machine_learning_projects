@@ -1,4 +1,4 @@
-# Machine Learning project
+# Machine Learning projects
 ## About me
 I am  a data scientist with a strong background in agriculture, healthcare, and environmental sustainability. I specialize in leveraging data to drive impactful decisions
 ## Skills
